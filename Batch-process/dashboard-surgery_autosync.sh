@@ -1,0 +1,1 @@
+/var/www/smart-hos/logstash/bin/logstash -f /var/www/smart-hos/logstash/config/dashboard-surgery_autosync.conf --path.data=/var/www/temp-surgery/
